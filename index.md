@@ -1,6 +1,6 @@
-# Github Projects
+## Github Projects
 
-## japanese-palindrome
+### japanese-palindrome
 
 Detect if a romanized japanese string is a palindrome.
 https://github.com/hendrauzia/japanese-palindrome
